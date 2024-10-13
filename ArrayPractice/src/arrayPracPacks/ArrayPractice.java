@@ -8,7 +8,7 @@ public class ArrayPractice {
 		String password[] = {"123","456","789"};
 		String username[] = {"emmanzxc","ced435","chany"};
 		
-		int i = 1;
+		int i = 2;
 
 		System.out.println("Credentials:");
 		System.out.println("index   : " + i);
