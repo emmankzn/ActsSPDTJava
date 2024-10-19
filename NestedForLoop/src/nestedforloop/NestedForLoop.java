@@ -42,6 +42,16 @@ public class NestedForLoop {
 		}// Outer Loop
 		
 		
+		for(String user[]:users) {
+		
+			
+			for(String info:user) {
+				System.out.println(info);			
+				
+			}// for each inner
+			System.out.println(" ");
+		}// for each outer
+		
 		
 	}// Method
 
