@@ -22,9 +22,9 @@ public class User {
 	void setlastName(String lastName) {
 		this.lastName = lastName;
 	}
-	//------------- Getters--------------	
 	
-
+	
+	//------------- Getters--------------	
 	int getUserId() {
 		return userId;
 	}
