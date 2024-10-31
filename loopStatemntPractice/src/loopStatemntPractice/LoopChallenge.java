@@ -36,6 +36,8 @@ public class LoopChallenge {
 			
 		}
 		
+		scn.close();
+		
 		
 
 	}// method ending Bracket
